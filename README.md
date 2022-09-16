@@ -15,6 +15,7 @@
 presentación
 
 4. ¿Qué es una herramienta ofimática?
+
 Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una
 presentación
 
